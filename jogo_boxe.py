@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import random
 import time
-import jogo_boxe
 from cvzone.HandTrackingModule import HandDetector
 
 # Configurações do jogo
